@@ -1,7 +1,7 @@
 Name
 ====
 
-* backtrace module
+* Backtrace module. It comes from [Tengine](http://tengine.taobao.org), an Nginx distribution with quite a few advanced features.
 
 Description
 ===========
